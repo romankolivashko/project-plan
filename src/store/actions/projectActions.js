@@ -1,6 +1,6 @@
 export const createProject = (project) => {
   
-  // Conventional way
+  // Normal way
   // return {
   //   type: 'ADD_PROJECT',
   //   project: project
